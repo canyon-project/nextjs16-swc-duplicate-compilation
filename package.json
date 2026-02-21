@@ -16,7 +16,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "swc-plugin-stage-output": "^0.1.0",
+    "swc-plugin-stage-output": "^0.1.1",
     "typescript": "^5"
   }
 }
